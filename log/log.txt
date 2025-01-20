@@ -1,0 +1,4 @@
+Total de partidas jogadas: 0
+Vitorias: 0
+Derrotas: 0
+Empates: 0 
